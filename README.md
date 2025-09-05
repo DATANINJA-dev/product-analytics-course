@@ -43,8 +43,7 @@ product-analytics-course/
 │   ├── 01A_AARRR_Framework_Deep_Dive.ipynb
 │   ├── 01B_HEART_Framework_Mastery.ipynb  
 │   ├── 01C_North_Star_Strategy_Deep_Dive.ipynb
-│   ├── Lab_01_Product_Analytics_Foundations.ipynb
-│   └── Session_01_Detailed_Structure.md
+│   └── Lab_01_Product_Analytics_Foundations.ipynb
 ├── 📊 datasets/session_01/                 # Practice datasets
 │   ├── skillboost_user_data.csv
 │   ├── skillboost_course_analytics.csv
@@ -54,6 +53,7 @@ product-analytics-course/
 ├── 📚 resources/                          # Support materials
 │   ├── Session_01_Quick_Reference.md
 │   ├── Additional_Case_Studies.md
+│   ├── Session_01_Instructor_Guide.md
 │   └── python_setup.md
 └── 📋 requirements.txt                    # Python dependencies
 ```
