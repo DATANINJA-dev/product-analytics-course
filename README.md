@@ -1,7 +1,8 @@
 # Product Analytics Mastery Program
-## 8-Week Intensive Course for Product Decision Making
+## Private Intensive Course - Diogo Barros
 
-**Duration**: 8 sessions × 1.5 hours each + home lab work  
+**Duration**: 8 sessions × 1.5 hours each  
+**Schedule**: Fridays 3:00-4:30 PM CET  
 **Format**: Theory + Practice + Real-world Case Studies  
 **Language**: English  
 **Focus**: Applied Product Analytics for Business Impact  
@@ -9,246 +10,121 @@
 ---
 
 ## Course Overview
-This program combines theoretical frameworks with hands-on Python implementation to master Product Analytics. Each 1.5-hour session includes theory, practice, and real-world case studies, plus comprehensive lab assignments for home practice.
+This program combines advanced theoretical frameworks with hands-on Python implementation to master Product Analytics. Each 1.5-hour session includes executive-level theory, practical implementation, and Harvard Business School-style case studies, plus comprehensive lab assignments.
 
 ---
 
-## Session Schedule
+## 📚 Session 1: Product Analytics Foundations (Ready)
+**Master the three core frameworks for product decision-making**
 
-### **Session 1: Product Analytics Foundations & Framework Selection**
-**When to use which framework for product decisions**
+### Session Content (90 minutes)
+- **[01A] AARRR Framework Deep Dive (30 min)** - Acquisition, Activation, Retention, Referral, Revenue
+- **[01B] HEART Framework Mastery (30 min)** - Google's Goals-Signals-Metrics methodology
+- **[01C] North Star Strategy Deep Dive (20 min)** - Strategic alignment and organizational focus
+- **[Session Structure]** - Detailed timing and implementation guide (10 min)
 
-**Session Content (90 minutes)**
-- **Theory (35 min)**: AARRR vs HEART vs North Star Framework comparison
-  - When to choose AARRR (startup growth focus)
-  - When to choose HEART (UX-focused products) 
-  - When to choose North Star (team alignment)
-  - Real company examples (Spotify, Airbnb, Instagram)
+### Included Materials
+- **3 Executive-Level Notebooks** with Harvard Business School case studies
+- **Lab 1 Assignment** - Comprehensive homework with SkillBoost case study
+- **4 Curated Datasets** - Realistic business data for hands-on analysis
+- **Quick Reference Guide** - Formulas, benchmarks, and implementation templates
+- **Additional Case Studies** - Duolingo, Notion, Zoom, Canva, Discord examples
 
-- **Practice (40 min)**: Framework Selection Workshop
-  - Hands-on: Choosing the right framework for different product types
-  - Python setup for analytics tracking simulation
-  - Building your first product metrics dashboard
+### Real Business Cases Covered
+- **AARRR**: Airbnb growth strategy, Facebook user acquisition, Netflix retention optimization
+- **HEART**: YouTube engagement metrics, Gmail user experience measurement, Slack adoption tracking  
+- **North Star**: Slack team collaboration focus, Airbnb host-guest value creation, WhatsApp privacy-first measurement
 
-- **Case Study (15 min)**: SaaS Product North Star Definition
-  - Live analysis: Slack's "Messages Sent" vs "Daily Active Teams"
-
-**Home Lab Assignment**
-- Framework Selection Exercise (3 different products)  
-- Dataset: Simulated app user behavior data
-- Deliverable: Framework justification + initial metric definitions
-
----
-
-### **Session 2: User Acquisition & Activation Analysis**
-**Optimizing the top of your funnel**
-
-**Session Content (90 minutes)**
-- **Theory (30 min)**: Acquisition Channel Analysis & Activation Patterns
-- **Practice (45 min)**: Funnel Analysis Implementation
-- **Case Study (15 min)**: Dropbox Activation Optimization
-
-**Home Lab Assignment**
-- Multi-channel Funnel Analysis
-- Dataset: E-commerce acquisition data (5 channels)
-
----
-
-### **Session 3: Retention & Cohort Analysis Deep Dive**
-**Understanding user lifecycle and retention patterns**
-
-**Session Content (90 minutes)**
-- **Theory (25 min)**: Cohort Methodologies & Retention Patterns
-- **Practice (50 min)**: Advanced Cohort Analysis
-- **Case Study (15 min)**: Netflix Retention Strategy
-
-**Home Lab Assignment**
-- Subscription Product Retention Analysis
-- Dataset: SaaS subscription data (18 months)
-
----
-
-### **Session 4: Engagement & Feature Analytics**
-**Measuring feature success and user engagement**
-
-**Session Content (90 minutes)**
-- **Theory (30 min)**: Engagement Metrics & Feature Adoption
-- **Practice (45 min)**: Feature Impact Analysis
-- **Case Study (15 min)**: Instagram Stories Feature Launch
-
-**Home Lab Assignment**
-- Feature Adoption Analysis
-- Dataset: Mobile app feature usage data
-
----
-
-### **Session 5: Revenue & Business Impact Analytics**
-**Connecting user behavior to business outcomes**
-
-**Session Content (90 minutes)**
-- **Theory (25 min)**: Revenue Attribution & LTV Analysis
-- **Practice (50 min)**: Revenue Analytics Implementation
-- **Case Study (15 min)**: Spotify Premium Conversion Strategy
-
-**Home Lab Assignment**
-- Freemium Conversion Optimization
-- Dataset: Freemium SaaS financial data
-
----
-
-### **Session 6: A/B Testing & Experimentation Framework**
-**Building a data-driven experimentation culture**
-
-**Session Content (90 minutes)**
-- **Theory (30 min)**: Experiment Design & Statistical Methods
-- **Practice (45 min)**: A/B Test Analysis Framework
-- **Case Study (15 min)**: Airbnb Booking Flow Optimization
-
-**Home Lab Assignment**
-- A/B Test Analysis & Design
-- Dataset: E-commerce checkout experiment results
-
----
-
-### **Session 7: Predictive Analytics & Advanced Models**
-**Using ML for product analytics and predictions**
-
-**Session Content (90 minutes)**
-- **Theory (25 min)**: Predictive Models in Product Analytics
-- **Practice (50 min)**: ML for Product Analytics
-- **Case Study (15 min)**: LinkedIn Engagement Prediction
-
-**Home Lab Assignment**
-- Churn Prediction Model
-- Dataset: Customer behavior and churn data
-
----
-
-### **Session 8: Product Analytics Strategy & Advanced Implementation**
-**Building analytics culture and advanced strategic frameworks**
-
-**Session Content (90 minutes)**
-- **Theory (35 min)**: Analytics Culture & Decision Frameworks
-- **Practice (40 min)**: Strategic Analytics Implementation
-- **Case Study (15 min)**: Uber's Analytics Organization Evolution
-
-**Capstone Project** (Independent Work)
-- Timeline: Developed throughout the course (home assignments build toward it)
-- Support: Questions addressed during sessions
-- Final Deliverable: Complete product analytics strategy for real/simulated product
-
----
-
-## Repository Structure
+## 🗂️ Repository Structure
 
 ```
 product-analytics-course/
-├── notebooks/                          # Session materials
-│   ├── session_01_foundations/
-│   ├── session_02_acquisition/
-│   ├── session_03_retention/
-│   ├── session_04_engagement/
-│   ├── session_05_revenue/
-│   ├── session_06_experimentation/
-│   ├── session_07_predictive/
-│   └── session_08_strategy/
-├── labs/                               # Home assignments
-│   ├── lab_01_frameworks/
-│   ├── lab_02_funnels/
-│   ├── lab_03_cohorts/
-│   ├── lab_04_features/
-│   ├── lab_05_revenue/
-│   ├── lab_06_testing/
-│   └── lab_07_modeling/
-├── datasets/                           # Course data files
-│   ├── user_behavior_sim.csv
-│   ├── ecommerce_funnel.csv
-│   ├── subscription_data.csv
-│   ├── feature_usage.csv
-│   └── experiment_results.csv
-├── capstone_project/                   # Final project templates
-│   ├── project_options/
-│   ├── templates/
-│   └── examples/
-└── resources/                          # Additional materials
-    ├── frameworks_reference.md
-    ├── python_setup.md
-    └── industry_cases/
+├── 📓 notebooks/session_01_foundations/    # Core session materials
+│   ├── 01A_AARRR_Framework_Deep_Dive.ipynb
+│   ├── 01B_HEART_Framework_Mastery.ipynb  
+│   ├── 01C_North_Star_Strategy_Deep_Dive.ipynb
+│   ├── Lab_01_Product_Analytics_Foundations.ipynb
+│   └── Session_01_Detailed_Structure.md
+├── 📊 datasets/session_01/                 # Practice datasets
+│   ├── skillboost_user_data.csv
+│   ├── skillboost_course_analytics.csv
+│   ├── skillboost_funnel_data.csv
+│   ├── skillboost_cohort_analysis.csv
+│   └── README.md
+├── 📚 resources/                          # Support materials
+│   ├── Session_01_Quick_Reference.md
+│   ├── Additional_Case_Studies.md
+│   └── python_setup.md
+└── 📋 requirements.txt                    # Python dependencies
 ```
 
 ---
 
-## Learning Outcomes
+## 🎯 Learning Outcomes - Session 1
 
-By the end of this program, you will:
+After completing Session 1, you will:
 
-1. **Framework Mastery**: Know when to use AARRR, HEART, or North Star frameworks
-2. **Technical Skills**: Implement product analytics using Python and industry tools
-3. **Business Impact**: Connect user behavior data to business decisions
-4. **Experimentation**: Design and analyze A/B tests effectively
-5. **Strategic Thinking**: Build analytics culture and long-term measurement strategies
-6. **Real-world Application**: Complete an end-to-end product analytics project
-
----
-
-## Home Lab Structure & Materials
-
-### **Each Lab Includes:**
-- **Jupyter Notebook**: Theory recap + guided exercises
-- **Dataset**: Realistic, anonymized data for practice
-- **Solution Guide**: Complete implementation with explanations
-- **Extension Exercises**: Advanced challenges for deeper learning
-
-### **Lab Progression:**
-1. Framework Selection & Basic Metrics
-2. Acquisition & Funnel Analysis  
-3. Cohort & Retention Analysis
-4. Feature & Engagement Analytics
-5. Revenue & LTV Analysis
-6. A/B Testing & Experimentation
-7. Predictive Modeling & ML
-
-### **Capstone Project Options:**
-- **Option A**: Complete e-commerce analytics implementation
-- **Option B**: SaaS product metrics dashboard and insights
-- **Option C**: Mobile app engagement optimization strategy
-- **Option D**: Custom project using your real work scenario
+1. **Framework Selection Mastery**: Know exactly when to use AARRR, HEART, or North Star frameworks
+2. **Quantitative Analysis**: Calculate key metrics including conversion rates, retention, LTV, and viral coefficients
+3. **Business Case Application**: Apply frameworks to real scenarios using data from Airbnb, Netflix, Spotify, etc.
+4. **Strategic Decision Making**: Design comprehensive measurement strategies for product initiatives
+5. **Practical Implementation**: Build analytics frameworks using Python and realistic datasets
 
 ---
 
-## Prerequisites
+## 🛠️ Setup & Prerequisites
 
-- Basic Python knowledge
-- Understanding of pandas and data manipulation
-- Business/product context awareness
-- Jupyter Notebook environment setup
+### Required Tools
+- **Python 3.8+** with pandas, numpy, matplotlib, seaborn, scipy
+- **Jupyter Notebook** environment
+- **GitHub** access for materials
 
-## Required Tools & Setup
-- Python 3.8+ with pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
-- Jupyter Notebook environment
-- GitHub account for project sharing
-- Optional: Access to analytics platforms (Mixpanel/Amplitude demos)
+### Getting Started
+1. Clone this repository: `git clone [repository-url]`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Follow setup guide: `resources/python_setup.md`
+4. Start with Session 1: `notebooks/session_01_foundations/`
 
----
+## 📅 Course Information
 
-## Getting Started
-
-1. Clone this repository
-2. Install required packages: `pip install -r requirements.txt`
-3. Set up your development environment following `resources/python_setup.md`
-4. Start with Session 1 notebook in `notebooks/session_01_foundations/`
-
----
-
-## Assessment & Support
-- **Weekly Labs**: Intensive practical exercises for home study (2-3 hours each)
-- **Session Support**: All 1.5 hours dedicated to direct instruction and guided practice
-- **Capstone Project**: Built progressively through lab assignments, completed independently
-- **Resources**: Curated reading list and industry case studies
-
----
-
-**Instructor**: Alfons Marques  
-**Duration**: 8 weeks × 1.5 hours + lab work  
+**Instructor**: Alfons Marques (DATANINJA-dev)  
+**Student**: Diogo Barros  
+**Schedule**: Fridays 3:00-4:30 PM CET  
+**Duration**: 8 sessions × 1.5 hours  
 **Language**: English  
-**Format**: Theory + Practice + Case Studies
+
+---
+
+## 🎓 Course Philosophy
+
+This program emphasizes **executive-level analytical rigor** combined with **immediate practical application**. Each session builds upon Harvard Business School case study methodology, ensuring you can apply frameworks to real business scenarios from day one.
+
+**Ready to start?** → Open `notebooks/session_01_foundations/01A_AARRR_Framework_Deep_Dive.ipynb`
+
+---
+
+<details>
+<summary><strong>📋 Complete Course Outline (8 Sessions)</strong> - Click to expand</summary>
+
+### Session 2: User Acquisition & Activation Analysis
+**Optimizing the top of your funnel** - Dropbox case study, multi-channel funnel analysis
+
+### Session 3: Retention & Cohort Analysis Deep Dive  
+**Understanding user lifecycle and retention patterns** - Netflix retention strategy, advanced cohort analysis
+
+### Session 4: Engagement & Feature Analytics
+**Measuring feature success and user engagement** - Instagram Stories launch, feature adoption tracking
+
+### Session 5: Revenue & Business Impact Analytics
+**Connecting user behavior to business outcomes** - Spotify Premium strategy, LTV optimization
+
+### Session 6: A/B Testing & Experimentation Framework
+**Building a data-driven experimentation culture** - Airbnb booking optimization, statistical methods
+
+### Session 7: Predictive Analytics & Advanced Models
+**Using ML for product analytics and predictions** - LinkedIn engagement prediction, churn modeling
+
+### Session 8: Product Analytics Strategy & Implementation
+**Building analytics culture and strategic frameworks** - Uber's analytics evolution, capstone project
+
+</details>
