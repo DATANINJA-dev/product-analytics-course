@@ -52,3 +52,7 @@ Thumbs.db
 *.tmp
 *.temp
 ~*
+
+# Development context files (not for sharing)
+cloud.md
+.claude/
