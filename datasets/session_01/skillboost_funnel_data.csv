@@ -1,0 +1,11 @@
+funnel_stage,stage_description,users_entering,users_converting,conversion_rate,avg_time_in_stage_hours,drop_off_reasons
+1,Website Visit,50000,15000,0.30,"Landing page views, browsing content","High bounce rate (45%), unclear value proposition"
+2,Trial Registration,15000,4200,0.28,"Account creation, email verification","Complex registration form, email delivery issues"
+3,Trial Engagement,4200,2800,0.67,"First lesson completion, profile setup","Technical issues (15%), content difficulty mismatch"
+4,Purchase Intent,2800,2100,0.75,"Course selection, payment page visit","Price sensitivity, comparison shopping"
+5,Purchase Completion,2100,1890,0.90,"Payment processing, account upgrade","Payment failures (8%), last-minute hesitation"
+6,Course Start,1890,1512,0.80,"First lesson in paid course","Immediate regret, technical access issues"
+7,Week 1 Completion,1512,1210,0.80,"Complete first week of content","Time constraints, content difficulty"
+8,Month 1 Active,1210,847,0.70,"Active engagement after 30 days","Life changes, competing priorities"
+9,Course Completion,847,593,0.70,"Finish entire course curriculum","Course length fatigue, content quality issues"
+10,Renewal/Upsell,593,237,0.40,"Purchase additional courses or subscription","Budget constraints, satisfaction levels"

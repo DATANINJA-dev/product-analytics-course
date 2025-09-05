@@ -1,0 +1,21 @@
+course_id,course_name,course_category,price_eur,launch_date,total_enrollments,completion_rate,avg_rating,revenue_eur,instructor_rating,difficulty_level
+C001,Python for Data Science,Programming,199.00,2024-01-15,2450,0.68,4.3,487550.00,4.7,Intermediate
+C002,Machine Learning Fundamentals,Data Science,299.00,2024-02-01,1890,0.72,4.5,565110.00,4.8,Advanced
+C003,SQL for Analytics,Database,149.00,2024-01-20,3200,0.81,4.2,476800.00,4.5,Beginner
+C004,Business Intelligence with Power BI,Analytics,249.00,2024-02-15,1560,0.65,4.1,388440.00,4.4,Intermediate
+C005,Digital Marketing Analytics,Marketing,179.00,2024-03-01,2100,0.74,4.4,375900.00,4.6,Beginner
+C006,Financial Modeling,Finance,399.00,2024-02-10,890,0.59,4.6,355110.00,4.9,Advanced
+C007,Project Management Essentials,Management,129.00,2024-01-25,2800,0.78,4.0,361200.00,4.3,Beginner
+C008,Advanced Excel for Business,Office Skills,99.00,2024-01-10,4200,0.85,3.9,415800.00,4.2,Intermediate
+C009,Cloud Computing Basics,Technology,219.00,2024-03-10,1340,0.70,4.3,293460.00,4.5,Intermediate
+C010,Leadership in Digital Age,Soft Skills,189.00,2024-02-20,1780,0.76,4.2,336420.00,4.4,Beginner
+C011,Data Visualization with Tableau,Analytics,269.00,2024-03-15,1120,0.63,4.4,301280.00,4.7,Intermediate
+C012,Cybersecurity Fundamentals,Security,229.00,2024-02-25,1450,0.69,4.3,332050.00,4.5,Beginner
+C013,AI Ethics and Governance,Ethics,159.00,2024-03-20,980,0.71,4.1,155820.00,4.6,Advanced
+C014,Agile Methodology,Management,139.00,2024-01-30,2300,0.82,4.0,319700.00,4.3,Beginner
+C015,Advanced Python Programming,Programming,349.00,2024-03-25,750,0.61,4.7,261750.00,4.9,Advanced
+C016,UX/UI Design Principles,Design,199.00,2024-02-05,1650,0.73,4.2,328350.00,4.4,Intermediate
+C017,Statistics for Business,Statistics,169.00,2024-01-18,2650,0.79,4.1,448850.00,4.3,Beginner
+C018,Blockchain Technology,Technology,389.00,2024-03-30,620,0.57,4.5,241180.00,4.8,Advanced
+C019,Content Marketing Strategy,Marketing,149.00,2024-02-28,1890,0.75,4.0,281610.00,4.2,Beginner
+C020,Time Management Mastery,Soft Skills,79.00,2024-01-05,3800,0.88,3.8,300200.00,4.1,Beginner
