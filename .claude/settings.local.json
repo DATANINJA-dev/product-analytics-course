@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Read(//c/Users/alfons.marques/OneDrive - Schwarz IT/Documentos/github_repo_dataninja/Ironhack-data-sept-2023/**)",
+      "Bash(for i in {01..20})",
+      "Bash(do echo \"=== WEEK $i ===\")",
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "WebSearch",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
