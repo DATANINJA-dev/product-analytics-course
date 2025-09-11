@@ -1,0 +1,21 @@
+Customer_ID,First_Touch,Second_Touch,Third_Touch,Final_Touch,Conversion_Value,Journey_Length_Days,Industry_Segment
+1,Content Marketing,LinkedIn Ads,Google Ads,Google Ads,1800,14,Technology
+2,LinkedIn Ads,Webinar Marketing,LinkedIn Ads,LinkedIn Ads,1800,21,Finance
+3,Google Ads,Content Marketing,Google Ads,Google Ads,1800,7,Healthcare
+4,Content Marketing,Google Ads,Referral Program,Referral Program,1800,28,Technology
+5,LinkedIn Ads,Content Marketing,LinkedIn Ads,LinkedIn Ads,1800,18,Finance
+6,Google Ads,LinkedIn Ads,Google Ads,Google Ads,1800,12,Manufacturing
+7,Webinar Marketing,LinkedIn Ads,Webinar Marketing,Webinar Marketing,1800,35,Technology
+8,Content Marketing,LinkedIn Ads,Google Ads,Google Ads,1800,16,Healthcare
+9,Referral Program,Content Marketing,Referral Program,Referral Program,1800,9,Technology
+10,LinkedIn Ads,Webinar Marketing,Google Ads,Google Ads,1800,22,Finance
+11,Content Marketing,Google Ads,LinkedIn Ads,LinkedIn Ads,1800,19,Manufacturing
+12,Google Ads,Content Marketing,Google Ads,Google Ads,1800,8,Technology
+13,LinkedIn Ads,Content Marketing,Webinar Marketing,Webinar Marketing,1800,25,Finance
+14,Webinar Marketing,Content Marketing,LinkedIn Ads,LinkedIn Ads,1800,31,Healthcare
+15,Content Marketing,Referral Program,Referral Program,Referral Program,1800,42,Technology
+16,Google Ads,LinkedIn Ads,Content Marketing,Google Ads,1800,11,Manufacturing
+17,LinkedIn Ads,Google Ads,LinkedIn Ads,LinkedIn Ads,1800,15,Finance
+18,Content Marketing,Google Ads,Webinar Marketing,Webinar Marketing,1800,29,Technology
+19,Referral Program,LinkedIn Ads,Referral Program,Referral Program,1800,12,Healthcare
+20,Google Ads,Content Marketing,LinkedIn Ads,Google Ads,1800,13,Technology
