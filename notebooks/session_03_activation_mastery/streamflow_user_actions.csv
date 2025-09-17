@@ -1,0 +1,54 @@
+user_id,action_timestamp,action_type,song_id,artist_name,playlist_id,session_duration_minutes,device_type,action_context
+3002,2023-10-01 14:23:15,song_play,10001,Taylor Swift,,3,mobile,discover_weekly
+3002,2023-10-01 14:26:42,song_play,10002,Ed Sheeran,,3,mobile,discover_weekly
+3002,2023-10-01 14:31:18,artist_follow,,Taylor Swift,,,mobile,artist_page
+3002,2023-10-01 14:33:25,playlist_create,,,20001,3,mobile,user_library
+3002,2023-10-01 14:45:12,song_add_to_playlist,10001,Taylor Swift,20001,12,mobile,song_options
+3002,2023-10-01 14:47:33,premium_feature_use,,,,15,mobile,high_quality_audio
+3002,2023-10-01 15:12:45,social_share,10001,Taylor Swift,,15,mobile,instagram_share
+3005,2023-10-01 16:15:30,song_play,10003,Billie Eilish,,4,desktop,trending_now
+3005,2023-10-01 16:22:15,song_play,10004,The Weeknd,,4,desktop,trending_now
+3005,2023-10-01 16:28:45,song_play,10005,Dua Lipa,,4,desktop,autoplay
+3005,2023-10-01 16:35:20,artist_follow,,Billie Eilish,,,desktop,artist_page
+3005,2023-10-01 16:38:12,playlist_create,,,20002,4,desktop,user_library
+3005,2023-10-01 16:42:30,song_add_to_playlist,10003,Billie Eilish,20002,4,desktop,song_options
+3005,2023-10-01 16:55:18,premium_feature_use,,,,19,desktop,offline_download
+3005,2023-10-01 17:10:45,social_share,10003,Billie Eilish,,19,desktop,facebook_share
+3007,2023-10-01 18:30:22,song_play,10006,Drake,,5,mobile,friend_activity
+3007,2023-10-01 18:36:45,song_play,10007,Post Malone,,5,mobile,friend_activity
+3007,2023-10-01 18:42:18,artist_follow,,Drake,,,mobile,artist_page
+3007,2023-10-01 18:45:30,friend_connect,,,,5,mobile,contacts_import
+3007,2023-10-01 18:48:15,playlist_create,,,20003,5,mobile,user_library
+3007,2023-10-01 18:52:42,song_add_to_playlist,10006,Drake,20003,5,mobile,song_options
+3007,2023-10-01 19:05:20,social_share,10007,Post Malone,,5,mobile,twitter_share
+3009,2023-10-01 20:15:45,song_play,10008,Ariana Grande,,6,tablet,radio_station
+3009,2023-10-01 20:22:30,song_play,10009,Justin Bieber,,6,tablet,radio_station
+3009,2023-10-01 20:28:15,song_play,10010,Olivia Rodrigo,,6,tablet,autoplay
+3009,2023-10-01 20:34:50,artist_follow,,Ariana Grande,,,tablet,artist_page
+3009,2023-10-01 20:38:25,friend_connect,,,,6,tablet,social_login
+3009,2023-10-01 20:42:12,playlist_create,,,20004,6,tablet,user_library
+3009,2023-10-01 20:47:33,premium_feature_use,,,,23,tablet,ad_free_listening
+3009,2023-10-01 21:02:18,social_share,10008,Ariana Grande,,23,tablet,instagram_story
+3012,2023-10-02 09:45:20,song_play,10011,Bad Bunny,,7,mobile,latin_hits
+3012,2023-10-02 09:52:15,song_play,10012,Rosalía,,7,mobile,latin_hits
+3012,2023-10-02 09:58:30,artist_follow,,Bad Bunny,,,mobile,artist_page
+3012,2023-10-02 10:02:45,friend_connect,,,,7,mobile,friend_referral
+3012,2023-10-02 10:06:12,playlist_create,,,20005,7,mobile,user_library
+3012,2023-10-02 10:11:35,song_add_to_playlist,10011,Bad Bunny,20005,7,mobile,song_options
+3012,2023-10-02 10:35:22,social_share,10012,Rosalía,,7,mobile,whatsapp_share
+3013,2023-10-02 14:20:18,song_play,10013,Harry Styles,,8,desktop,new_releases
+3013,2023-10-02 14:27:45,song_play,10014,Doja Cat,,8,desktop,new_releases
+3013,2023-10-02 14:34:20,song_play,10015,Lana Del Rey,,8,desktop,autoplay
+3013,2023-10-02 14:41:15,artist_follow,,Harry Styles,,,desktop,artist_page
+3013,2023-10-02 14:44:30,playlist_create,,,20006,8,desktop,user_library
+3013,2023-10-02 14:49:45,song_add_to_playlist,10013,Harry Styles,20006,8,desktop,song_options
+3013,2023-10-02 14:58:12,premium_feature_use,,,,34,desktop,lyrics_display
+3013,2023-10-02 15:15:33,social_share,10014,Doja Cat,,34,desktop,discord_share
+3017,2023-10-02 16:35:25,song_play,10016,Eminem,,9,mobile,hip_hop_classics
+3017,2023-10-02 16:42:10,song_play,10017,Kendrick Lamar,,9,mobile,hip_hop_classics
+3017,2023-10-02 16:48:35,song_play,10018,J. Cole,,9,mobile,autoplay
+3017,2023-10-02 16:55:20,artist_follow,,Eminem,,,mobile,artist_page
+3017,2023-10-02 16:58:45,friend_connect,,,,9,mobile,contacts_sync
+3017,2023-10-02 17:03:12,playlist_create,,,20007,9,mobile,user_library
+3017,2023-10-02 17:08:30,song_add_to_playlist,10016,Eminem,20007,9,mobile,song_options
+3017,2023-10-02 17:25:18,social_share,10017,Kendrick Lamar,,9,mobile,snapchat_share

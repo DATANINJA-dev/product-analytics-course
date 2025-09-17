@@ -1,0 +1,11 @@
+feature_name,implementation_date,activation_impact_score,development_cost_weeks,friend_connection_lift,retention_lift,roi_score,priority_ranking
+Contact Import Redesign,2009-07-15,9.2,8,0.35,0.12,8.5,1
+Friend Suggestion Algorithm,2009-08-01,8.8,12,0.42,0.18,7.9,2
+Onboarding Flow Optimization,2009-08-15,7.5,6,0.28,0.08,7.2,3
+Friend Connection Progress Bar,2009-09-01,6.3,3,0.15,0.05,6.8,4
+People You May Know Widget,2009-09-15,5.9,5,0.22,0.07,6.1,5
+Email Friend Invitations,2009-10-01,5.2,4,0.18,0.04,5.8,6
+Social Onboarding Tutorial,2009-10-15,4.8,7,0.12,0.03,4.2,7
+Profile Completion Prompts,2009-11-01,3.5,2,0.08,0.02,3.8,8
+News Feed Algorithm Update,2009-11-15,3.2,9,0.06,0.01,2.1,9
+Photo Tagging Enhancement,2009-12-01,2.8,5,0.05,0.01,1.9,10

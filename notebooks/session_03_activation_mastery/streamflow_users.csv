@@ -1,0 +1,51 @@
+user_id,signup_date,signup_source,age,country,subscription_type,profile_completed,first_login_duration_minutes,songs_listened_day1,playlists_created_day1,artists_followed_day1,friends_connected_day1,premium_feature_used_day1,social_share_day1,search_queries_day1,day7_active,day30_active,day90_active,total_lifetime_songs,total_playlists_created,subscription_upgraded,churn_date
+3001,2023-10-01,Google Ads,25,Spain,Free,1,12,3,0,1,0,0,0,2,0,0,0,3,0,0,2023-10-02
+3002,2023-10-01,Instagram Ad,28,UK,Free,1,45,15,2,4,1,1,1,8,1,1,1,245,12,1,
+3003,2023-10-01,Friend Referral,22,Germany,Free,1,38,12,1,3,2,0,1,5,1,1,0,156,8,0,2023-11-15
+3004,2023-10-01,Spotify Ad,31,France,Free,0,5,1,0,0,0,0,0,1,0,0,0,1,0,0,2023-10-01
+3005,2023-10-01,TikTok Ad,19,USA,Free,1,52,18,3,5,1,1,2,12,1,1,1,389,18,1,
+3006,2023-10-01,Google Search,35,Italy,Free,1,8,2,0,1,0,0,0,1,0,0,0,2,0,0,2023-10-03
+3007,2023-10-01,Friend Referral,26,Netherlands,Free,1,41,14,2,4,3,0,1,7,1,1,1,267,15,0,
+3008,2023-10-01,YouTube Ad,23,Sweden,Free,1,23,7,1,2,0,0,0,4,1,0,0,45,3,0,2023-11-20
+3009,2023-10-01,Instagram Ad,29,Canada,Free,1,47,16,2,5,2,1,1,9,1,1,1,298,14,1,
+3010,2023-10-01,Direct,33,Australia,Free,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2023-10-01
+3011,2023-10-02,Google Ads,27,Portugal,Free,1,15,4,0,2,0,0,0,3,1,0,0,28,1,0,2023-11-02
+3012,2023-10-02,Friend Referral,24,Belgium,Free,1,44,13,2,3,2,0,1,6,1,1,1,234,11,1,
+3013,2023-10-02,TikTok Ad,20,Norway,Free,1,49,17,3,4,1,1,2,11,1,1,1,356,16,1,
+3014,2023-10-02,Spotify Ad,32,Denmark,Free,1,11,3,0,1,0,0,0,2,0,0,0,8,0,0,2023-10-05
+3015,2023-10-02,Instagram Ad,26,Finland,Free,1,36,11,1,3,1,1,1,7,1,1,0,189,9,0,2023-12-01
+3016,2023-10-02,YouTube Ad,21,Ireland,Free,1,28,8,1,2,0,0,0,5,1,0,0,52,4,0,2023-11-25
+3017,2023-10-02,Friend Referral,30,Switzerland,Free,1,43,14,2,4,3,0,1,8,1,1,1,278,13,1,
+3018,2023-10-02,Google Search,34,Austria,Free,1,6,1,0,0,0,0,0,1,0,0,0,1,0,0,2023-10-02
+3019,2023-10-02,TikTok Ad,18,Poland,Free,1,51,19,3,5,1,1,2,13,1,1,1,412,19,1,
+3020,2023-10-02,Direct,36,Czech Republic,Free,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2023-10-02
+3021,2023-10-03,Instagram Ad,25,Greece,Free,1,39,12,2,3,1,1,1,6,1,1,1,223,10,0,
+3022,2023-10-03,Friend Referral,28,Hungary,Free,1,46,15,2,4,2,0,1,9,1,1,1,289,14,1,
+3023,2023-10-03,Google Ads,22,Slovakia,Free,1,18,5,1,2,0,0,0,4,1,0,0,35,2,0,2023-11-10
+3024,2023-10-03,TikTok Ad,31,Slovenia,Free,1,48,16,3,4,1,1,2,10,1,1,1,345,17,1,
+3025,2023-10-03,YouTube Ad,27,Croatia,Free,1,25,7,1,2,0,0,0,5,1,0,0,48,3,0,2023-11-28
+3026,2023-10-03,Instagram Ad,24,Estonia,Free,1,37,12,1,3,1,1,1,7,1,1,0,198,8,0,2023-12-05
+3027,2023-10-03,Friend Referral,29,Latvia,Free,1,42,13,2,4,3,0,1,7,1,1,1,256,12,1,
+3028,2023-10-03,Spotify Ad,33,Lithuania,Free,1,9,2,0,1,0,0,0,1,0,0,0,4,0,0,2023-10-06
+3029,2023-10-03,TikTok Ad,19,Luxembourg,Free,1,53,20,3,5,1,1,2,14,1,1,1,425,20,1,
+3030,2023-10-03,Google Search,35,Malta,Free,1,7,1,0,1,0,0,0,2,0,0,0,3,0,0,2023-10-04
+3031,2023-10-04,Instagram Ad,26,Cyprus,Free,1,40,13,2,3,1,1,1,8,1,1,1,234,11,0,
+3032,2023-10-04,Friend Referral,23,Bulgaria,Free,1,45,14,2,4,2,0,1,8,1,1,1,267,13,1,
+3033,2023-10-04,TikTok Ad,30,Romania,Free,1,50,18,3,5,1,1,2,12,1,1,1,378,18,1,
+3034,2023-10-04,Google Ads,27,Serbia,Free,1,16,4,0,2,0,0,0,3,1,0,0,29,1,0,2023-11-05
+3035,2023-10-04,YouTube Ad,21,Montenegro,Free,1,27,8,1,2,0,0,0,4,1,0,0,51,4,0,2023-11-30
+3036,2023-10-04,Instagram Ad,28,North Macedonia,Free,1,38,11,1,3,1,1,1,6,1,1,0,187,9,0,2023-12-08
+3037,2023-10-04,Friend Referral,25,Albania,Free,1,41,13,2,4,3,0,1,7,1,1,1,245,12,1,
+3038,2023-10-04,Spotify Ad,32,Bosnia,Free,1,10,3,0,1,0,0,0,2,0,0,0,7,0,0,2023-10-07
+3039,2023-10-04,TikTok Ad,18,Moldova,Free,1,54,21,3,5,1,1,2,15,1,1,1,445,21,1,
+3040,2023-10-04,Direct,37,Belarus,Free,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023-10-04
+3041,2023-10-05,Instagram Ad,24,Ukraine,Free,1,35,10,1,3,1,1,1,5,1,1,1,201,8,0,
+3042,2023-10-05,Friend Referral,27,Georgia,Free,1,43,14,2,4,2,0,1,8,1,1,1,278,13,1,
+3043,2023-10-05,TikTok Ad,29,Armenia,Free,1,49,17,3,4,1,1,2,11,1,1,1,367,17,1,
+3044,2023-10-05,Google Ads,22,Azerbaijan,Free,1,17,5,1,2,0,0,0,4,1,0,0,32,2,0,2023-11-08
+3045,2023-10-05,YouTube Ad,31,Kazakhstan,Free,1,26,7,1,2,0,0,0,5,1,0,0,49,3,0,2023-12-02
+3046,2023-10-05,Instagram Ad,26,Uzbekistan,Free,1,36,11,1,3,1,1,1,6,1,1,0,189,9,0,2023-12-10
+3047,2023-10-05,Friend Referral,23,Kyrgyzstan,Free,1,44,15,2,4,3,0,1,9,1,1,1,289,14,1,
+3048,2023-10-05,Spotify Ad,34,Tajikistan,Free,1,8,2,0,1,0,0,0,1,0,0,0,5,0,0,2023-10-08
+3049,2023-10-05,TikTok Ad,20,Turkmenistan,Free,1,52,19,3,5,1,1,2,13,1,1,1,401,19,1,
+3050,2023-10-05,Google Search,36,Mongolia,Free,1,5,1,0,0,0,0,0,1,0,0,0,2,0,0,2023-10-05
