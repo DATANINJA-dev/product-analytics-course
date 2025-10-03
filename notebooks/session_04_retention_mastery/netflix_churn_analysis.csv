@@ -1,0 +1,11 @@
+segment,total_users,churned_users,churn_rate,avg_tenure_days,avg_weekly_hours,avg_content_completed,avg_binge_sessions,primary_churn_reason
+high_engagement,5200,156,3.0,245,18.5,24,12,price_increase
+medium_engagement,8900,1246,14.0,128,8.2,8,3,lack_of_content
+low_engagement,12400,6820,55.0,42,2.1,1,0,never_used_service
+price_sensitive,3800,1900,50.0,156,9.5,12,5,price_increase
+content_completers,4200,168,4.0,268,16.8,28,10,moving_to_competitor
+casual_viewers,7600,2660,35.0,95,5.5,4,1,lack_of_time
+binge_watchers,3500,105,3.0,285,22.5,32,18,none_primary
+family_plan_users,2900,116,4.0,298,14.2,18,8,kids_grew_up
+single_device_users,8200,3936,48.0,68,4.2,3,1,poor_experience
+multi_device_users,6300,252,4.0,242,15.8,22,11,moving_internationally

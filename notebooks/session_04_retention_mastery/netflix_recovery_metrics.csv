@@ -1,0 +1,15 @@
+metric,pre_crisis_jul2011,crisis_peak_sep2011,recovery_dec2011,post_recovery_mar2012,improvement_percent
+total_subscribers,25900000,23800000,24400000,26200000,10.08
+monthly_churn_rate,0.87,7.02,2.95,1.85,-73.65
+new_subscriber_acquisition,780000,520000,920000,1180000,126.92
+avg_weekly_viewing_hours,8.2,5.2,8.1,9.5,82.69
+content_completion_rate,42.5,28.3,38.2,48.5,71.38
+recommendation_click_rate,22.1,15.8,24.5,31.2,97.47
+customer_satisfaction_score,78,52,72,82,57.69
+net_promoter_score,42,8,38,52,550.00
+avg_session_duration_min,65,38,62,78,105.26
+sessions_per_week,4.8,2.5,4.5,5.8,132.00
+binge_sessions_per_month,3.2,1.5,3.5,5.2,246.67
+genres_per_user,5.8,3.2,5.5,7.2,125.00
+device_diversity_score,2.3,1.8,2.4,3.1,72.22
+referral_rate_percent,8.5,3.2,7.8,11.2,250.00

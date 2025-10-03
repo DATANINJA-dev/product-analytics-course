@@ -1,0 +1,7 @@
+cohort_month,total_subscribers,new_subscribers,churned_subscribers,monthly_churn_rate,month_1_retention,month_2_retention,month_3_retention,month_6_retention,avg_viewing_hours_week1,avg_content_items_watched
+2024-01,125000,15000,14500,11.6,88.2,78.5,69.2,52.3,4.2,6
+2024-02,126500,16500,15800,12.5,87.5,76.8,67.1,49.8,4.0,5
+2024-03,127200,18200,16200,12.7,86.9,75.2,65.8,48.2,3.8,5
+2024-04,129200,20500,17800,13.8,85.1,73.5,63.4,45.9,3.5,4
+2024-05,131900,22800,19500,14.8,83.4,71.2,60.8,42.5,3.2,4
+2024-06,135200,25200,21300,15.8,81.8,68.9,58.2,39.8,2.9,3
